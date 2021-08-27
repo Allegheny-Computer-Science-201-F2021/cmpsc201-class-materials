@@ -1,0 +1,7 @@
+- Slack communication.
+- Syllabus catch up.
+- Setup/Installation Survey:
+  https://forms.gle/sM4mEVXHeaJAv2TJ9
+- Complete discussing Week-1 Slides
+- Actvity on problem solving using PL's. 
+

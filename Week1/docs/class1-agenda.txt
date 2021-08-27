@@ -1,0 +1,4 @@
+- Welcome Message.
+- Intro to Programming Languages.
+- Group Actvity to compare PL's with Natural Languages to guide the basic understanding of using Syntax and Semantics in PL's. 
+
