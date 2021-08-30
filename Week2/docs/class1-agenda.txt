@@ -1,0 +1,4 @@
+- Reminders: lab-01, week-1 participation credits,  and laptop setup survey. 
+- Discuss the background on PL's
+- Activity to explore Imperative and Declarative PL's. 
+
