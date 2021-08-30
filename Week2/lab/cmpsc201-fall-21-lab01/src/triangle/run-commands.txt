@@ -1,0 +1,44 @@
+First, you are required to be inside the lab directory named "cmpsc201-fall-21-lab01". 
+
+1) Build the containter using the following command:
+docker build -t cs201lab01 .
+"The period/dot is required in the command above."
+
+2) Run the container using the following command:
+Mac/Ubuntu:
+docker run --rm -v $(pwd)/src:/root -it cs201lab01
+Windows:
+docker run --rm -v "%cd%/src":/root -it cs201lab01
+----------------------------------------------------
+Navigate to the triangle directory using the command below:
+cd triangle
+----------------------------------------------------
+Compile and Run C Program:
+----------------------------------------------------
+cd c
+gcc triangle.c -o triangle.out
+./triangle.out
+----------------------------------------------------
+Compile and Run C++ Program:
+-----------------------------------------------------
+cd ../c++
+g++ triangle.cpp -o triangle.exe
+./triangle.exe 
+----------------------------------------------------
+Compile and Run CSharp Program: 
+----------------------------------------------------
+cd ../csharp
+mcs -out:Triangle.exe Triangle.cs
+mono Triangle.exe
+----------------------------------------------------
+Compile and Run Java Program: 
+----------------------------------------------------
+cd ../java
+javac Triangle.java
+java Triangle
+----------------------------------------------------
+Compile and Run Python Program:
+----------------------------------------------------
+cd ../python
+python3 triangle.py
+-----------------------------------------------------

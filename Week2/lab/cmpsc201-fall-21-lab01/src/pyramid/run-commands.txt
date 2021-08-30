@@ -1,0 +1,46 @@
+If your container is already running from the triangle part, then you are not required to run the container again. That is you can use the same container. The instructions below are provided just in case you want to run the container again. 
+
+First, you are required to be inside the lab directory named "cmpsc201-fall-21-lab01". 
+
+1) Build the containter using the following command:
+docker build -t cs201lab01 .
+"The period/dot is required in the command above."
+
+2) Run the container using the following command:
+Mac/Ubuntu:
+docker run --rm -v $(pwd)/src:/root -it cs201lab01
+Windows:
+docker run --rm -v "%cd%/src":/root -it cs201lab01
+----------------------------------------------------
+Navigate to the triangle directory using the command below:
+cd pyramid
+----------------------------------------------------
+Compile and Run C Program:
+----------------------------------------------------
+cd c
+gcc pyramid.c -o pyramid.out
+./pyramid.out
+----------------------------------------------------
+Compile and Run C++ Program:
+-----------------------------------------------------
+cd ../c++
+g++ pyramid.cpp -o pyramid.exe
+./pyramid.exe 
+----------------------------------------------------
+Compile and Run CSharp Program: 
+----------------------------------------------------
+cd ../csharp
+mcs -out:Pyramid.exe Pyramid.cs
+mono Pyramid.exe
+----------------------------------------------------
+Compile and Run Java Program: 
+----------------------------------------------------
+cd ../java
+javac Pyramid.java
+java Pyramid
+----------------------------------------------------
+Compile and Run Python Program:
+----------------------------------------------------
+cd ../python
+python3 pyramid.py
+-----------------------------------------------------
