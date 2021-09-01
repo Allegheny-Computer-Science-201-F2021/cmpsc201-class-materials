@@ -1,0 +1,5 @@
+- Complete discussion about the background on PL's.
+- Activity to explore Declarative PL's using Javascript and C/Prolog.
+- Start discussion on Compilers and Interpreters.
+
+
