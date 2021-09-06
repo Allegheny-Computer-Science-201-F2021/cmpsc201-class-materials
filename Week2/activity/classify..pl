@@ -11,6 +11,8 @@ classify([H|T]):-
     ).
 :- initialization(main).
 main :- 
-classify(['a','b','c','d','e']).
+classify(['a','b','c','d','e']),
+classify(['a','b','c','d','e','f']).
+
 
 

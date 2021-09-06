@@ -1,0 +1,5 @@
+- Reminders: Lab-01 submission, lab-02 this afternoon, class participation credits for week-2, first quiz on Sep 15th. 
+- Discuss the Lexical Analysis component of Compilers. 
+- Getting started on the Syntactic Analysis component of Compilers. 
+- Explore SLY toolkit and discuss the calculator example more in detail. 
+
