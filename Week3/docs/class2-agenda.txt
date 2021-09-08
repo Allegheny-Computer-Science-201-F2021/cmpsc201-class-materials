@@ -1,0 +1,5 @@
+- Reminders: First quiz on Sep 15th, preparatory sheet link in Slack, Lab 02 and JSM meeting.  
+- Explore SLY toolkit and discuss the String example more in detail. 
+- Discuss the Syntactic Analysis component of Compilers.
+ 
+
