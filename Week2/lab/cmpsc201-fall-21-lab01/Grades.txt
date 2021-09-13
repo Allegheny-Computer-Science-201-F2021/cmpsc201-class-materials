@@ -1,0 +1,13 @@
+				Graded Report File
+			    ===================
+Student Name: Thomas Antle
+----------------------------------------------------
+Part 1) 20/20 points
+The code files were implemented correctly. The program was executed and the results matched the expected output. Full points given!
+Part 2) 20/20 points.
+The code files were implemented correctly. The program was executed and the results matched the expected output. Full points given!
+Part 3) 10/10 points.
+Technical report file was submitted correctly!
+
+----------------------------------------------------
+Total 50/50
