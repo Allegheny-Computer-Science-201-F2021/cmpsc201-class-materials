@@ -1,0 +1,3 @@
+- Reminders: Lab-02 submission, Lab-03 this afternoon (Team Based), class participation credits for week-3, Grades for lab-01, First quiz on Wednesday, Sep 15th. 
+- Discuss the topics from Semantic Analysis in Compilers and Interpreters (Lesson-4)
+- Getting started on Bindings in Lesson-5
