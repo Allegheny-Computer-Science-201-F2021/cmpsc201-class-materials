@@ -1,0 +1,9 @@
+- Reminders: 
+	Lab-04 submission.
+	Lab-05 this afternoon on expressions.  
+	Class participation credits for Week-5.
+	Lab-2 Grade uploaded. 
+	Quiz-2 on 10/8th.
+	Midterm on 10/18th
+- Wrap up discussion on Scopes
+- Getting started with Control Flow and Expressions.
