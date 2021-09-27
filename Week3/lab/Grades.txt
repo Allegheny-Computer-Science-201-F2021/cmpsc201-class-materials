@@ -1,0 +1,20 @@
+				Graded Report File
+			    ===================
+Student Name: 
+----------------------------------------------------
+Part 1) 35/35 points
+	Task 1 - Java Byte Code
+			 The correct jbe code files were added. Full points given.
+	Task 2 - Double variables
+			 The correct observation was added to the file. Full points given.
+	Task 3 - Speculation 
+			 The correct speculation was added to the file. Full points given.
+	Task 4 - Operators 
+			 The correct technical report was added to the file. Full points given.
+	Task 5 - Constant Folding 
+			 The correct technical points were 	added to the file. Full points given.
+
+Part 2) 15/15 points
+Sly calculator: The new programming languages executed correctly. I tested the new operators and it was functional. Full points given. 
+----------------------------------------------------
+Total 50/50
