@@ -1,0 +1,1 @@
+gs -q -dSAFER -dNOPAUSE -dBATCH -sOutputFile=pscripts.pdf -sDEVICE=pdfwrite -c "-c <</Orientation 3>> setpagedevice" -f *ps

@@ -1,0 +1,30 @@
+Add your technical points in the space provided below:
+-----
+Part 3:
+----------------------------------------------------
+
+List out your view of using Prefix Notations, and discuss advantages and disadvantages. 
+------------------------------------------------
+
+
+
+------------------------------------------------
+List out your view of using Postfix Notations, and discuss advantages and disadvantages. 
+------------------------------------------------
+
+
+
+------------------------------------------------
+List out your view of using Infix Notations, and discuss advantages and disadvantages. First research about Infix Notations and identify which language that you used previously used Infix Notations. 
+------------------------------------------------
+
+
+
+------------------------------------------------
+
+
+Cite your references:
+------------------------------------------------
+
+
+------------------------------------------------
