@@ -5,7 +5,7 @@
 )
 ; compute mid point of the string 
 (define (mid x)
-	(void)      ; not implemented here  
+	(round(/ (len x) 2))
 )
 (define alpha "Programming")
 (define beta "Programming Language")

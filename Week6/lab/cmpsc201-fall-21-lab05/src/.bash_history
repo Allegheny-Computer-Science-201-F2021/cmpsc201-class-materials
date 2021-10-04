@@ -100,3 +100,39 @@ ls
 cd examples/
 racket area-sphere.rkt 
 exit
+clear
+ls
+cd examples/
+ls
+racket area-sphere.rkt 
+nano area-sphere.rkt 
+clear
+ls
+racket area-triangle.rkt 
+CLEAR
+clear
+ls
+gs -q -dSAFER -dNOPAUSE -dBATCH -sOutputFile=pscripts.pdf -sDEVICE=pdfwrite -c "-c <</Orientation 3>> setpagedevice" -f *ps
+cd ../part-2
+exit
+clear
+ls
+cd part-1/
+racket midpoint.rkt 
+ckear
+clear
+racket midpoint.rkt 
+clear
+racket midpoint.rkt 
+clear
+cd part-1/
+racket midpoint.rkt 
+clear
+cd part-1
+ls
+racket stringify.rkt 
+clear
+cd part-1
+racket stringify.rkt 
+clear
+racket stringify.rkt 
