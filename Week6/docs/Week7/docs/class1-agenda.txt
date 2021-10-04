@@ -1,0 +1,8 @@
+- Reminders: 
+	Lab-05 submission.
+	Lab-06 this afternoon on Infix, Prefix, and Postfix expression convertions.  
+	Class participation credits for Week-6.
+	Lab-3 grading this week. 
+	Quiz-2 on 10/8th.
+	Midterm on 10/18th
+- More discussion on control flow constructs.
