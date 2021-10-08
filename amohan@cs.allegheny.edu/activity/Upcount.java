@@ -5,7 +5,7 @@ public class Downcount{
 		Scanner scan = new Scanner(System.in);
 		int limits = scan.nextInt();
 		System.out.println("------------------------");
-		for (int i = limits; i >= 0; i--){
+		for (int i = 0; i <= limits; i++){
 			System.out.println(i);
 		}
 		System.out.println("------------------------");
