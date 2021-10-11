@@ -1,0 +1,8 @@
+- Reminders: 
+	Lab-06 submission extended to next Monday, 10/18th 2:00 PM
+	Quiz-2 Follow up.
+	No lab this afternoon, exam prep. 
+	Class participation credits for Week-7.
+	Midterm on 10/18th. Will release the prep sheet this afternoon.
+- Finish up discussion on Control Flow (Recursions)
+- Start discussion on Data Types. 
