@@ -1,0 +1,22 @@
+				Graded Report File
+			    ===================
+Student Name: 
+----------------------------------------------------
+Part 1) 25/25 points
+	Expressions.rkt - The correct racket implementation was 
+	completed.
+	Stringify.rkt - The correct racket implementation was 
+	completed.
+	Midpoint.rkt - The correct racket implementation was completed.
+	Volumecone.rkt - The correct racket implementation was completed.
+	Volumesphere.rkt - The correct racket implementation was completed.
+	Full credit given. 
+
+	
+Part 2) 15/15 points
+	Postscript files were implemented. Full points given. 
+
+Part 3) 10/10 points
+	Technical Report was added correctly. 
+----------------------------------------------------
+Total 50/50
