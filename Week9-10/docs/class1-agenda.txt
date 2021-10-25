@@ -1,0 +1,6 @@
+- Reminders: 
+	New lab this afternoon, data types and Haskell exploration. 
+	Class participation credits for Week-9.
+	Quiz-3 on Friday, Nov-5th. Prep sheet will be released by end of this week. 
+- Start discussion on Subroutines. 
+
