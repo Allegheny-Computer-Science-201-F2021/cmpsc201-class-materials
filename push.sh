@@ -1,6 +1,6 @@
 #!/bin/bash
-rm -rf Week7/lab/cmpsc201-fall-21-lab06/.git
-git rm -rf --cached Week7/lab/cmpsc201-fall-21-lab05
+rm -rf Week11/cmpsc201-fall-21-lab08/.git
+git rm -rf --cached Week11/cmpsc201-fall-21-lab08
 git add .
-git commit -m "added lab5"
+git commit -m "added lab8"
 git push
