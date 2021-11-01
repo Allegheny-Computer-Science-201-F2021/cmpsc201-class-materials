@@ -1,0 +1,8 @@
+- Reminders: 
+	Midterm Grades
+	New lab this afternoon, in LISP. 
+	Class participation credits for Week-10.
+	Quiz-3 on Friday, Nov-5th. Prep sheet is released.
+- Wrap up discussion on Subroutines. 
+- Start discussion Functional Programming Lisp. 
+
