@@ -1,0 +1,7 @@
+- Reminders: 
+	Quiz-3 Grades and Follow up. 
+	New lab this afternoon, in Prolog. Last lab.  
+	Class participation credits for Week-11.	
+- Start discussion Logical Programming Prolog. 
+- Next Script programming. 
+
