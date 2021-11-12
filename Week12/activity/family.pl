@@ -1,23 +1,31 @@
 :- initialization(main).
 male(harry).  
-female(wills).
+male(peter).  
+female(chas).
+male(bob).
+female(alice).
 female(liz).  
+parent(phil, bob). 
 parent(phil, chas).  
 parent(liz, chas).  
 parent(chas,harry).  
-parent(chas,wills).  
+parent(chas,alice).  
+parent(chas,peter).
 grandmother(GM, C):-  
 mother(GM, P),  
 parent(P, C).  
-mother(M,C):-  
+mother(M,C):-  % rules
 	female(M),  
     parent(M, C). 
-son(P,C):-  
+son(P,C):-  % rules
 	male(C),  
     parent(P, C). 
-daughter(P,C):-  
+daughter(P,C):-  % rules
 	female(C),  
     parent(P, C). 
-main :- forall(daughter(chas, Who),(write(Who:daughter(chas, Who)), nl)),
-		forall(grandmother(liz, Who),(write(Who), nl)).
+rone(X,Y) :- female(X), parent(Z,X), parent(Z,Y), X \= Y.
+rtwo(X,Y) :- rone(Z,X), parent(Z,Y).
+main :- forall(son(chas, Who),(write(Who:son(chas)), nl)),
+		forall(grandmother(liz, Who),(write(Who:grandmother(liz)), nl)),
+		forall(rtwo(bob,Who),(write(Who:rtwo(bob)), nl)).
 

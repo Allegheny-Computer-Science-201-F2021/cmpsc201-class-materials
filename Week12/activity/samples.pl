@@ -105,3 +105,14 @@ daughter(P,C):-
 main :- forall(daughter(chas, Who),(write(Who:daughter(chas, Who)), nl)),
 		forall(grandmother(liz, Who),(write(Who), nl)).
 
+
+:- initialization(main).
+male(harry).
+male(peter).
+female(chas).
+male(bob).
+female(alice).
+female(liz).
+male(mark).
+query((male(arvi);female(arvi))).
+main :- forall(query(Q), (Q -> write(Q:'yes'),nl ; write(Q:'no'),nl)).
