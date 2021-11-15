@@ -1,0 +1,2 @@
+Age(Bob,30)
+Salary(Smith,3500.67).
