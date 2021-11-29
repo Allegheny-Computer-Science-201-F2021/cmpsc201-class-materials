@@ -1,5 +1,7 @@
 <!--
-This code is used for CS-201 class discussions.-->
+This code is used for CS-201 class discussions.
+It is about setting up client side computations. 
+-->
 <html>
 <head>
 <title>
@@ -14,16 +16,23 @@ CS-201 Calculator
 
 <script type = "text/javascript">
 function add(){
-	
+	var first = Number(document.getElementById('first').value);
+	var second = Number(document.getElementById('second').value);
+	var result = first + second;
+	document.getElementById('result').value = result;
 }
 function sub(){
-	
+	// add logic
+	var first = Number(document.getElementById('first').value);
+	var second = Number(document.getElementById('second').value);
+	var result = first - second;
+	document.getElementById('result').value = result;
 }
 function mul(){
-	
+	// add logic
 }
 function div(){
-	
+	// add logic
 }
 </script>
 </head>

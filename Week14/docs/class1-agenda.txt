@@ -1,0 +1,15 @@
+- Reminders: 
+	Project proposal follow ups.
+	No lab group meeting today. We will work on the project and use Slack to coordinate. 
+	Project progress report due by 
+	NEW Deadline: December 6th, 2021, 2:00 PM.
+	Presentation: December 13th at 5:00 PM EST
+	Report and Code submission: December 13th at 5:00 PM EST.
+	Refer to the project sheet for more details. 
+	Quiz-4 Dec 6th (during class time). 
+	Final Exam for 201 is on Dec 14th 9-12 PM. (cumulative coverage). I will discuss this more in detail at the start of next week. 
+	Prep sheet released. Topics covered are functional programming (recursion), logical programming, script programming, and multi threading. 
+- Wrap up discussion on Script Programming.
+- Start discussion on Multithreaded Programming.
+
+

@@ -135,3 +135,165 @@ clisp compare.lisp
 clear
 clisp odd.lisp 
 exit
+ls
+cd examples/
+ls
+nano data.txt
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+:
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+ls -l
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+ls -l
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+clear
+swipl -s freader.pl 
+swipl -s reader.pl 10
+clear
+swipl -s reader.pl 10
+clear
+swipl -s reader.pl 10
+clear
+swipl -s reader.pl 10 20
+swipl -s freader.pl 
+clear
+ls
+swipl -s fwriter.pl 
+ls
+nano output.txt 
+clear
+nano output.txt 
+swipl -s fwriter.pl 
+clear
+swipl -s fwriter.pl 
+ls
+clear
+swipl -s kattie-family.pl 
+clear
+swipl -s kattie-family.pl 
+clear
+swipl -s kattie-family.pl 
+clear
+swipl -s kattie-family.pl 
+clear
+ls
+ls -l
+clear
+swipl -s kattie-family.pl 
+clear
+swipl -s kattie-family.pl 
+clear
+ls
+swipl -s family-caden.pl 
+clear
+swipl -s family-caden.pl 
+clear
+swipl -s family-caden.pl 
+clear
+swipl -s family-caden.pl 
+clear
+swipl -s family-caden.pl 
+clear
+swipl -s family-caden.pl 
+clear
+cd ../submission/
+ls
+ls -l
+swipl -s classify.pl 
+clear
+swipl -s classify.pl 
+clear
+swipl -s classify.pl 
+pwd
+ls
+clear
+cd ..
+cd examples/
+ls
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+cler
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
+swipl -s family-michael.pl 
+clear
